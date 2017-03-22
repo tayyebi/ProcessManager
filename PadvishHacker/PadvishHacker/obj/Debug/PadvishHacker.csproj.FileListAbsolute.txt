@@ -1,0 +1,12 @@
+c:\users\dear user\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\bin\Debug\PadvishHacker.exe
+c:\users\dear user\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\bin\Debug\PadvishHacker.pdb
+c:\users\dear user\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\obj\Debug\PadvishHacker.csprojResolveAssemblyReference.cache
+c:\users\dear user\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\obj\Debug\PadvishHacker.exe
+c:\users\dear user\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\obj\Debug\PadvishHacker.pdb
+C:\Users\Dear User\documents\visual studio 2013\Projects\PadvishHacker\PadvishHacker\bin\Debug\PadvishHacker.exe.config
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\obj\Debug\PadvishHacker.csprojResolveAssemblyReference.cache
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\bin\Debug\Terminator.exe.config
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\bin\Debug\Terminator.exe
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\bin\Debug\Terminator.pdb
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\obj\Debug\Terminator.exe
+D:\Projects\PadvishHacker\PadvishHacker\PadvishHacker\obj\Debug\Terminator.pdb

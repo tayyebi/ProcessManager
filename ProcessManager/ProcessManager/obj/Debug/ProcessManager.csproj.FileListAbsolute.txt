@@ -1,0 +1,8 @@
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojResolveAssemblyReference.cache
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.Cache
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
+D:\Projects\PadvishHacker\ProcessManager\ProcessManager\obj\Debug\ProcessManager.MainForm.resources

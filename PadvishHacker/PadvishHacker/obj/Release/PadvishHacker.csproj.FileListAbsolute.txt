@@ -1,0 +1,4 @@
+C:\Users\Dear User\Documents\Visual Studio 2013\Projects\PadvishHacker\PadvishHacker\bin\Release\PadvishHacker.exe
+C:\Users\Dear User\Documents\Visual Studio 2013\Projects\PadvishHacker\PadvishHacker\bin\Release\PadvishHacker.pdb
+C:\Users\Dear User\Documents\Visual Studio 2013\Projects\PadvishHacker\PadvishHacker\obj\Release\PadvishHacker.exe
+C:\Users\Dear User\Documents\Visual Studio 2013\Projects\PadvishHacker\PadvishHacker\obj\Release\PadvishHacker.pdb

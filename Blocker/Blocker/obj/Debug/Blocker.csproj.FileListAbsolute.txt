@@ -1,0 +1,5 @@
+D:\Projects\PadvishHacker\Blocker\Blocker\bin\Debug\Blocker.exe
+D:\Projects\PadvishHacker\Blocker\Blocker\bin\Debug\Blocker.pdb
+D:\Projects\PadvishHacker\Blocker\Blocker\obj\Debug\Blocker.exe
+D:\Projects\PadvishHacker\Blocker\Blocker\obj\Debug\Blocker.pdb
+D:\Projects\PadvishHacker\Blocker\Blocker\obj\Debug\Blocker.csprojResolveAssemblyReference.cache
